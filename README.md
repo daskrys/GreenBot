@@ -3,7 +3,7 @@ Team:
 Christian Perez, Mohamed Ismail, Sarah Catania, Shwetank Bhat
 
 # GreenBot
-Rover designed for agriculture. Vex + Arduino system that transmits data to display on App through Blynk.
+Rover designed for agriculture. Vex + Arduino system that transmits data to display on App through Blynk IoT.
 
 Arduino:
 
@@ -18,5 +18,4 @@ Vex:
 3 Shaft Encoders
 1 Button - no longer used
 
-Blynk displays data from Arduino system and outputs it onto Blynk app through bluetooth. 
-Works.
+Blynk displays data from Arduino system and outputs it onto Blynk app through bluetooth
